@@ -32,4 +32,5 @@ _BSc in Computer Science with Second Major in Mathematics_
 **2023 – 2027**
 
 **Stanford University** 
+
 **June 2024 – August 2024**
