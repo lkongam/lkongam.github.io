@@ -11,8 +11,11 @@ I'm a second year undergraduate student from the Hong Kong University of Science
 
 # Education
 **The Hong Kong University of Science and Technology (HKUST)**
+
 BSc in Computer Science with second major in Mathematics
+
 2023-2027
 
 **Stanford University**
+
 2024.06-2024.08
