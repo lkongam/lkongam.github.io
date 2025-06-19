@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<font face="Times New Roman">
 
 I'm a second year undergraduate student from the Hong Kong University of Science and Technology (HKUST), majoring in Computer Science with an second major in Mathematics. My research interests are computer vision, particularly focusing on video generation, and efficiency in LLM. I'll be an exchange student at École Polytechnique Fédérale de Lausanne.  
 
