@@ -8,15 +8,28 @@ redirect_from:
 ---
 
 
-I'm a second year undergraduate student from the Hong Kong University of Science and Technology (HKUST), majoring in Computer Science with an second major in Mathematics. My research interests are computer vision, particularly focusing on video generation, and efficiency in LLM. I'll be an exchange student at École Polytechnique Fédérale de Lausanne.  
+<style>
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+</style>
 
-# Education
-**The Hong Kong University of Science and Technology (HKUST)**
+I'm a second-year undergraduate student at the **Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a second major in Mathematics.
 
-BSc in Computer Science with second major in Mathematics
+My research interests include:
 
-2023-2027
+- **Computer Vision**, particularly focusing on video generation  
+- **Efficiency in Large Language Models (LLMs)**
 
-**Stanford University**
+I will be an **exchange student at École Polytechnique Fédérale de Lausanne (EPFL)**.
 
-2024.06-2024.08
+---
+
+## Education
+
+**The Hong Kong University of Science and Technology (HKUST)**  
+_BSc in Computer Science with Second Major in Mathematics_  
+**2023 – 2027**
+
+**Stanford University** 
+**June 2024 – August 2024**
