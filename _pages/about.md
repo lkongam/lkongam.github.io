@@ -23,6 +23,8 @@ My research interests include:
 
 I will be an **exchange student at École Polytechnique Fédérale de Lausanne (EPFL)**.
 
+My email is lkongam [at] connect [at] ust [at] hk
+
 ---
 
 ## Education
