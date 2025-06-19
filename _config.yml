@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "my_image.png"
+  name             : "Lingcheng Kong"
+  pronouns         : "He/His"  
+  bio              : "Computer Science and Mathematics undergraduate"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong University of Science and Technology"
+  uri              : 
+  email            : "lkongam@connect.ust.hk" 
 
   # Academic websites
   academia         : # URL
