@@ -30,24 +30,26 @@ My email is lkongam [at] connect [dot] ust [dot] hk
 ## Education
 
 **The Hong Kong University of Science and Technology (HKUST)**  
-BSc in Computer Science, Second Major in Mathematics  
-<small>2023 – 2027</small>  
+BSc in Computer Science, Second Major in Mathematics
+2023 – 2027
 
 **Stanford University**  
 Visiting Student, Summer Session  
-<small>June 2024 – August 2024</small>  
+June 2024 – August 2024
 
 **École Polytechnique Fédérale de Lausanne (EPFL)**  
 Exchange Student  
-<small>September 2025 – January 2026</small>  
+September 2025 – January 2026
 
 
 ## Research Experience
 
 **Encode Lab, Westlake University**  
 Research Intern  
-<small>Supervised by Professor Huan Wang</small>  
+Supervised by Professor Huan Wang
+May 2025 - Current
 
 **HKUST Under Graduate Research Project**  
 Collaborated with the CAIR Hong Kong team (Chinese Academy of Sciences)  
-<small>Directed by Professor Lei Chenyang; supervised by Professor Qifeng Chen</small>
+Directed by Professor Lei Chenyang; supervised by Professor Qifeng Chen
+December 2024 - March 2025
