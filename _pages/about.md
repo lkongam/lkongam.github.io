@@ -14,7 +14,7 @@ body {
 }
 </style>
 
-I'm a second-year undergraduate student at the **Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a second major in Mathematics.
+I'm a third-year undergraduate student(expected graduate year: 2027) at **The Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a second major in Mathematics.
 
 My research interests include:
 
@@ -33,6 +33,16 @@ My email is lkongam [at] connect [dot] ust [dot] hk
 _BSc in Computer Science with Second Major in Mathematics_  
 **2023 – 2027**
 
-**Stanford University** 
-
+**Stanford University**_
 **June 2024 – August 2024**
+
+**École Polytechnique Fédérale de Lausanne**_
+**September 2025 - January 2026**
+
+## Research Experience
+
+**Encode Lab of the Westlake University**_
+Research Intern, supervised by professor Huan Wang.
+
+**HKUST UROP Project**_
+Colaborated with the team of CAIR Hong Kong, CAS, directed professor Chenyang, Lei. Project supervised by professor Qifeng Chen.
