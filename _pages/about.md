@@ -35,7 +35,7 @@ BSc in Computer Science, Second Major in Mathematics
 
 **Stanford University**  
 Visiting Student, Summer Session  
-<small>June – August 2024</small>  
+<small>June 2024 – August 2024</small>  
 
 **École Polytechnique Fédérale de Lausanne (EPFL)**  
 Exchange Student  
