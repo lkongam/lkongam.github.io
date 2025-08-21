@@ -18,12 +18,12 @@ I'm a second-year undergraduate student at the **Hong Kong University of Science
 
 My research interests include:
 
-- **Computer Vision**, particularly focusing on video generation  
-- **Efficiency in Large Language Models (LLMs)**
+- **Cuda Kernel Generation**, Using LLMs to generate correct and efficient CUDA kernels.  
+- **LLM Reasoning and Chain of Thought(CoT)**, especially focusing on the reasoning process of code generation.
 
 I will be an **exchange student at École Polytechnique Fédérale de Lausanne (EPFL)**.
 
-My email is lkongam [at] connect [at] ust [at] hk
+My email is lkongam [at] connect [dot] ust [dot] hk
 
 ---
 
