@@ -47,9 +47,11 @@ September 2025 – January 2026
 **Encode Lab, Westlake University**  
 Research Intern  
 Supervised by Professor Huan Wang
+
 May 2025 - Current
 
 **HKUST Under Graduate Research Project**  
 Collaborated with the CAIR Hong Kong team (Chinese Academy of Sciences)  
 Directed by Professor Lei Chenyang; supervised by Professor Qifeng Chen
+
 December 2024 - March 2025
