@@ -18,6 +18,7 @@ I'm a third-year undergraduate student(expected graduate year: 2027) at **The Ho
 
 My research interests include:
 
+- **Machine Learning System(MLSys), mainly focusing on designing efficient CUDA kernels and using LLMs to help develop ML systems.**
 - **Cuda Kernel Generation**, Using LLMs to generate correct and efficient CUDA kernels.  
 - **LLM Reasoning and Chain of Thought(CoT)**, especially focusing on the reasoning process of code generation.
 
