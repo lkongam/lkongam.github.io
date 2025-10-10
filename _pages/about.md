@@ -60,5 +60,5 @@ December 2024 - March 2025
 ## Publications
 [ConCuR: Conciseness Makes State-of-the-Art Kernel Generation](https://lkongam.github.io/ConCuR/)
 
-*Preprint* | [Arxiv](https://arxiv.org/pdf/2510.07356) | [Model](https://huggingface.co/lkongam/KernelCoder)
+*Preprint* \| [Arxiv](https://arxiv.org/pdf/2510.07356) \| [Model](https://huggingface.co/lkongam/KernelCoder)
 
