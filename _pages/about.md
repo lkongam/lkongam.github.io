@@ -14,13 +14,13 @@ body {
 }
 </style>
 
-I'm a third-year undergraduate student(expected graduate year: 2027) at **The Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a second major in Mathematics.
+I'm a third-year undergraduate student (expected graduate year: 2027) at **The Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a second major in Mathematics.
 
 My research interests include:
 
-- **Machine Learning System(MLSys), mainly focusing on designing efficient CUDA kernels and using LLMs to help develop ML systems.**
+- **Machine Learning System (MLSys), mainly focusing on designing efficient CUDA kernels and using LLMs to help develop ML systems.**
 - **Cuda Kernel Generation**, Using LLMs to generate correct and efficient CUDA kernels.  
-- **LLM Reasoning and Chain of Thought(CoT)**, especially focusing on the reasoning process of code generation.
+- **LLM Reasoning and Chain of Thought (CoT)**, especially focusing on the reasoning process of code generation.
 
 I will be an **exchange student at École Polytechnique Fédérale de Lausanne (EPFL)**.
 
@@ -60,10 +60,12 @@ December 2024 - March 2025
 ## Publications
 [**ConCuR: Conciseness Makes State-of-the-Art Kernel Generation**](https://lkongam.github.io/ConCuR/)
 
-**Lingcheng Kong**, Jiateng Wei, Hanzhang Shen, Huan Wang
+<span style="display:block; font-size:0.92em; color:#444; font-style:italic; margin-top:-4px; margin-bottom:-2px;">
+<strong>Lingcheng Kong</strong>, Jiateng Wei, Hanzhang Shen, Huan Wang
+</span>
 
-<span style="font-size:0.85em; line-height:1.2; color:gray;">
+<span style="display:block; font-size:0.8em; line-height:1.1; color:gray; margin-top:-2px;">
 <i>Preprint</i> |
-<a href="https://arxiv.org/pdf/2510.07356" style="color:gray;">Arxiv</a> |
-<a href="https://huggingface.co/lkongam/KernelCoder" style="color:gray;">Model</a>
+<a href="https://arxiv.org/pdf/2510.07356" style="color:gray; text-decoration:none;">Arxiv</a> | 
+<a href="https://huggingface.co/lkongam/KernelCoder" style="color:gray; text-decoration:none;">Model</a>
 </span>
