@@ -58,15 +58,13 @@ Directed by Professor Lei Chenyang; supervised by Professor Qifeng Chen
 December 2024 - March 2025
 
 ## Publications
-[**ConCuR: Conciseness Makes State-of-the-Art Kernel Generation**](https://lkongam.github.io/ConCuR/)
-
-<p style="font-weight:600; color:#222; font-size:1em; margin:0.2em 0 0.2em 0;">
-Lingcheng Kong, Jiateng Wei, Hanzhang Shen, Huan Wang
-</p>
-
-<p style="font-size:0.8em; color:gray; margin:0; line-height:1.1;">
+<div style="margin-bottom:0.5em; line-height:1.2;">
+<b><a href="https://lkongam.github.io/ConCuR/">ConCuR: Conciseness Makes State-of-the-Art Kernel Generation</a></b><br>
+<b>Lingcheng Kong</b>, Jiateng Wei, Hanzhang Shen, Huan Wang<br>
+<span style="font-size:0.85em;">
 <i>Preprint</i> · 
-<a href="https://arxiv.org/pdf/2510.07356" style="color:gray; text-decoration:none;">Arxiv</a> · 
-<a href="https://huggingface.co/lkongam/KernelCoder" style="color:gray; text-decoration:none;">Model</a>
-</p>
+<a href="https://arxiv.org/pdf/2510.07356">Arxiv</a> · 
+<a href="https://huggingface.co/lkongam/KernelCoder">Model</a>
+</span>
+</div>
 
