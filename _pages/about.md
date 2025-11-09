@@ -42,20 +42,8 @@ June 2024 – August 2024
 Exchange Student  
 September 2025 – January 2026
 
-
-## Research Experience
-
-**Encode Lab, Westlake University**  
-Research Intern  
-Supervised by Professor Huan Wang
-
-May 2025 - Current
-
-**HKUST Under Graduate Research Project**  
-Collaborated with the CAIR Hong Kong team (Chinese Academy of Sciences)  
-Directed by Professor Lei Chenyang; supervised by Professor Qifeng Chen
-
-December 2024 - March 2025
+## Teaching
+Undergraduate Teaching Assistant, COMP 1023 - Python Programming (Spring 2025)
 
 ## Publications
 <div style="margin-bottom:0.5em; line-height:1.2;">
