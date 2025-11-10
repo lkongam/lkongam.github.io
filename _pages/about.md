@@ -14,7 +14,7 @@ body {
 }
 </style>
 
-I'm a third-year undergraduate student (expected graduate year: 2027) at **The Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a second major in Mathematics.
+I'm a third-year undergraduate student (expected graduate year: 2027) at **The Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a second major in Mathematics. I have visited the Encode Lab at Westlake University, luckily working with Prof. [Huan Wang](https://huanwang.tech/). 
 
 My research interests include:
 
@@ -22,7 +22,7 @@ My research interests include:
 - **Cuda Kernel Generation**, Using LLMs to generate correct and efficient CUDA kernels.  
 - **LLM Reasoning and Chain of Thought (CoT)**, especially focusing on the reasoning process of code generation.
 
-I will be an **exchange student at École Polytechnique Fédérale de Lausanne (EPFL)**.
+I am currently an exchange student at **École Polytechnique Fédérale de Lausanne (EPFL)**.
 
 My email is lkongam [at] connect [dot] ust [dot] hk
 
